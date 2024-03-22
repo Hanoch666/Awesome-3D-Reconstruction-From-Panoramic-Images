@@ -15,7 +15,7 @@ MD_FILE = os.path.join(DIR_ROOT, '../README.md')
 
 HEAD = f"""# Awesome-3D-Reconstruction-From-Panoramic-Images
 
-A curated list of papers and resources for panoramic 3D reconstruction(Nerf and 3DGS).
+A curated list of papers and resources for panoramic 3D reconstructions, including Nerf and 3DGS.
 
 This `README.md` is automatically generated from [`.dev_scripts/collection.csv`](.dev_scripts/collection.csv). 
 
