@@ -2,7 +2,7 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2023,CVPR,image,Balanced spherical grid for egocentric view synthesis,https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf,https://github.com/changwoonchoi/EgoNeRF,https://www.changwoon.info/publications/EgoNeRF
 2023,IROS,image,360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance,https://arxiv.org/pdf/2209.14265.pdf,https://github.com/MetaSLAM/360FusionNeRF,
 2024,arXiv,image,360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming,https://arxiv.org/pdf/2402.00763.pdf,,
-2022,ICME,image,Omni-NeRF: Neural Radiance Field from 360° Image Captures,https://www.researchgate.net/publication/359894633_OMNI-NERF_NEURAL_RADIANCE_FIELD_FROM_360_IMAGE_CAPTURES,,
+2022,ICME,image,Omni-NeRF: Neural Radiance Field from 360 Image Captures,https://www.researchgate.net/publication/359894633_OMNI-NERF_NEURAL_RADIANCE_FIELD_FROM_360_IMAGE_CAPTURES,,
 2024,NeurIPS,image,PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas,https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf,https://github.com/thucz/PanoGRF,https://thucz.github.io/PanoGRF/
 2023,arXiv,image,Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images,https://arxiv.org/pdf/2312.15942v1.pdf,https://github.com/Lu-Zhan/Pano-NeRF,
 2024,arXiv,image,PERF: Panoramic Neural Radiance Field from a Single Panorama,https://arxiv.org/pdf/2310.16831.pdf,https://github.com/perf-project/PeRF,https://perf-project.github.io/
