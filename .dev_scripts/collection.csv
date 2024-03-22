@@ -1,8 +1,15 @@
 Year,Conf,Type,Ttitle,URL,Code,Project
 2023,CVPR,image,Balanced spherical grid for egocentric view synthesis,https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf,https://github.com/changwoonchoi/EgoNeRF,https://www.changwoon.info/publications/EgoNeRF
 2023,IROS,image,360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance,https://arxiv.org/pdf/2209.14265.pdf,https://github.com/MetaSLAM/360FusionNeRF,
-2024,arXiv,image,360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming,https://arxiv.org/pdf/2402.00763.pdf,,
-2022,ICME,image,Omni-NeRF: Neural Radiance Field from 360° Image Captures,https://www.researchgate.net/publication/359894633_OMNI-NERF_NEURAL_RADIANCE_FIELD_FROM_360_IMAGE_CAPTURES,,
+2024,arXiv,image,360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming,https://arxiv.org/pdf/2402.00763.pdf,https://github.com/LeoDarcy/360GS,
+2022,ICME,image,Omni-NeRF: Neural Radiance Field from 360 Image Captures,https://www.researchgate.net/publication/359894633_OMNI-NERF_NEURAL_RADIANCE_FIELD_FROM_360_IMAGE_CAPTURES,https://github.com/wuzirui/OmniNeRF,
 2024,NeurIPS,image,PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas,https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf,https://github.com/thucz/PanoGRF,https://thucz.github.io/PanoGRF/
-2023,arXiv,image,Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images,https://arxiv.org/pdf/2312.15942v1.pdf,https://github.com/Lu-Zhan/Pano-NeRF,
-2024,arXiv,image,PERF: Panoramic Neural Radiance Field from a Single Panorama,https://arxiv.org/pdf/2310.16831.pdf,https://github.com/perf-project/PeRF,https://perf-project.github.io/
+2024,AAAI,image,Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images,https://arxiv.org/pdf/2312.15942v1.pdf,https://github.com/Lu-Zhan/Pano-NeRF,
+2024,TPAMI,image,PERF: Panoramic Neural Radiance Field from a Single Panorama,https://arxiv.org/pdf/2310.16831.pdf,https://github.com/perf-project/PeRF,https://perf-project.github.io/
+2024,arXiv,image,SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting,https://arxiv.org/pdf/2408.13711,https://github.com/liwrui/SceneDreamer360,https://scenedreamer360.github.io/
+2023,CVPR,image,Balanced Spherical Grid for Egocentric View Synthesis,https://arxiv.org/pdf/2303.12408,https://github.com/changwoonchoi/EgoNeRF,https://changwoon.info/publications/EgoNeRF
+2024,IJCAI,image,FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting,https://arxiv.org/pdf/2405.05768,https://github.com/Mr-Ma-yikun/FastScene,
+2024,NeurIPS,image,ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings,https://arxiv.org/pdf/2410.20686,https://github.com/esw0116/ODGS,
+2025,WACV,image,OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images,https://arxiv.org/pdf/2404.03202,,https://liquorleaf.github.io/research/OmniGS/
+2024,SIGGRAPH,image,Pano2Room: Novel View Synthesis from a Single Indoor Panorama,https://arxiv.org/pdf/2408.11413,https://github.com/TrickyGo/Pano2Room,
+2024,arXiv,image,Splatter-360: Generalizable 360 Gaussian Splatting for Wide-baseline Panoramic Images,,https://github.com/thucz/splatter360,https://3d-aigc.github.io/Splatter-360/
