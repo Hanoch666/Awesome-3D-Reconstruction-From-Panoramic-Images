@@ -12,3 +12,4 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2025,WACV,image,OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images,https://arxiv.org/pdf/2404.03202,,https://liquorleaf.github.io/research/OmniGS/
 2024,SIGGRAPH,image,Pano2Room: Novel View Synthesis from a Single Indoor Panorama,https://arxiv.org/pdf/2408.11413,https://github.com/TrickyGo/Pano2Room,
 2024,arXiv,image,Splatter-360: Generalizable 360 Gaussian Splatting for Wide-baseline Panoramic Images,,https://github.com/thucz/splatter360,https://3d-aigc.github.io/Splatter-360/
+2024,arXiv,image,PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting | Cheng Zhang,https://arxiv.org/pdf/2412.12096,https://github.com/chengzhag/PanSplat?tab=readme-ov-file,https://chengzhag.github.io/publication/pansplat/
